@@ -8,6 +8,8 @@ nodejs
 # RUN
 unzip vip.zip
 Unpack the main.py file
+
+
 bot_token xxxxx
 ADMIN_ID xxxxx
 
